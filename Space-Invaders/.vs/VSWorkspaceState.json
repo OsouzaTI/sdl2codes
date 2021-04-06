@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\deps",
+    "\\deps\\SDL2_MIXER",
+    "\\src"
+  ],
+  "SelectedNode": "\\src\\projectile.c",
+  "PreviewInSolutionExplorer": false
+}

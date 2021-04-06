@@ -1,0 +1,22 @@
+# ninja log v5
+0	641	638910222	CMakeFiles/SpaceInvaders.dir/src/main.c.obj	641207910dd7276a
+1	325	638910606	build.ninja	3873643154f83496
+1	148	638910606	CMakeFiles/SpaceInvaders.dir/src/main.c.obj	2cb5cc45822fc11e
+1	331	638910687	build.ninja	3873643154f83496
+1	146	638910687	CMakeFiles/SpaceInvaders.dir/src/main.c.obj	2cb5cc45822fc11e
+1	408	638910732	build.ninja	3873643154f83496
+0	319	638910748	build.ninja	3873643154f83496
+1	336	638910749	CMakeFiles/SpaceInvaders.dir/src/main.c.obj	c61897f7771b922a
+1	332	638910764	build.ninja	3873643154f83496
+0	99	638910944	build.ninja	3873643154f83496
+1	330	638910944	CMakeFiles/SpaceInvaders.dir/src/main.c.obj	8de339e9235c3b19
+0	326	638910985	build.ninja	3873643154f83496
+1	330	638910985	CMakeFiles/SpaceInvaders.dir/src/main.c.obj	2cb5cc45822fc11e
+1	341	638911114	build.ninja	3873643154f83496
+0	399	638911115	CMakeFiles/SpaceInvaders.dir/src/player.c.obj	120fd2a3bdb55b42
+6	400	638911115	CMakeFiles/SpaceInvaders.dir/src/label.c.obj	25a6d5c8f1b8eaa4
+9	401	638911115	CMakeFiles/SpaceInvaders.dir/src/logs.c.obj	37799895c6a4d148
+15	406	638911115	CMakeFiles/SpaceInvaders.dir/src/display.c.obj	42c345b15001a5ae
+3	411	638911115	CMakeFiles/SpaceInvaders.dir/src/projectile.c.obj	b515c118cec4e08e
+12	412	638911115	CMakeFiles/SpaceInvaders.dir/src/enemy.c.obj	f122c2f48a07fe68
+0	330	638911155	build.ninja	3873643154f83496

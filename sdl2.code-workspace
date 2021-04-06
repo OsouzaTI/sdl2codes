@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "monokai-charcoal (white)",
+		"files.associations": {
+			"label.h": "c",
+			"display.h": "c",
+			"enemy.h": "c",
+			"player.h": "c",
+			"constants.h": "c",
+			"projectile.h": "c",
+			"plants.h": "c",
+			"particles.h": "c",
+			"transform.h": "c"
+		}
+	}
+}
